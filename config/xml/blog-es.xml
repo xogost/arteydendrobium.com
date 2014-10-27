@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog ES</title>
+	<atom:link href="http://www.prestashop.com/blog/es/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.prestashop.com/blog/es</link>
+	<description>Un blog de Ecommerce sobre cómo gestionar una tienda online.</description>
+	<lastBuildDate>Mon, 27 Oct 2014 13:18:58 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>Cómo aprovechar eBay para las ventas internacionales</title>
+		<link>http://www.prestashop.com/blog/es/como-aprovechar-ebay-para-las-ventas-internacionales/</link>
+		<comments>http://www.prestashop.com/blog/es/como-aprovechar-ebay-para-las-ventas-internacionales/#comments</comments>
+		<pubDate>Mon, 27 Oct 2014 13:18:58 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12070</guid>
+		<description><![CDATA[Si quieres tener más éxito como vendedor, nada como salir al mercado internacional. Los consumidores cada vez están más conectados y quieren poder comprar en todo momento en cualquier sitio. Por eso las transacciones internacionales (CBT) se han convertido en &#8230; <a href="http://www.prestashop.com/blog/es/como-aprovechar-ebay-para-las-ventas-internacionales/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Si quieres tener más éxito como vendedor, nada como salir al mercado internacional. Los consumidores cada vez están más conectados y quieren poder <strong>comprar en todo momento en cualquier sitio.</strong> Por eso las transacciones internacionales (CBT) se han convertido en una magnífica oportunidad de crecimiento.</p>
+<p>¿Sabías que el comercio online entre los seis mayores mercados del mundo mueve más de <strong>1 000 millones de libras al año?</strong> Y se prevé que esta cifra se triplique en 2018. Pero antes de lanzarte a localizar tu sitio web para distintos idiomas y países, debes probar los mercados internacionales.</p>
+<p><img class="aligncenter size-large wp-image-12071" title="Web" src="http://www.prestashop.com/blog/es/files/2014/10/ebayblog-1024x537.jpg" alt="" width="584" height="306" /></p>
+<p><span id="more-12070"></span></p>
+<p>Eso de probar el mercado internacional suena caro, ¿verdad? Pues en realidad no lo es. No solo es asequible, sino que puedes ganar dinero mientras descubres cómo está en otros países la demanda de los productos que vendes.</p>
+<h2><span style="color: #e33238;">Comercio internacional a través de los mercados de venta online</span></h2>
+<p>¡Aprovecha estos puntos de venta y amplía tu negocio a incontables países! Los mercados de venta online como eBay te dan acceso a más de 149 millones de compradores activos de todo el mundo. Presenta tus productos en eBay y llegarás a ese 20% de compradores que suele recurrir a vendedores internacionales&#8230; mientras el 80% restante se pregunta por qué no lo hace aún.</p>
+<p>Vender en eBay te ayuda a labrarte un historial mientras exploras el mundo de las ventas internacionales. Después de cada compra en eBay, los usuarios pueden dejar su opinión: una puntuación y un comentario. Los vendedores pueden usar esta evaluación para mejorar aspectos como la descripción de sus productos, el servicio al cliente, las opciones de envío o el precio.</p>
+<h2><span style="color: #0065d1;">Decidir dónde vender</span></h2>
+<p>¿A qué países debes dirigirte? Depende. Como normal general, tu mercado objetivo debe tener un alto índice de compras online y pocos vendedores nacionales. Sin embargo, para determinar si tu producto es adecuado para el país seleccionado, empieza vendiendo en un mercado de venta online. Cuando lo hayas hecho sabrás en qué países debes centrarte y cómo optimizar tus procesos para ellos.</p>
+<h2><span style="color: #85b716;">Primeros pasos en los mercados de venta online</span></h2>
+<p>Existen diferentes formas de empezar: todo depende de cómo sea tu tienda y qué vendas. Si tienes un negocio pequeño con pocos artículos, empieza <strong>presentando tus productos y proponiendo envíos internacionales. </strong>Cuando los clientes busquen en el catálogo de eBay, encontrarán tus artículos.</p>
+<p>Los negocios de tamaño medio con una gama amplia de productos, pueden abrir una tienda eBay.* Además, para presentar tu catálogo a millones de compradores, puedes elaborar una central de ventas totalmente personalizada: crearás conciencia de marca, fomentarás las ventas con herramientas de marketing y presentarás tus productos durante más tiempo y a mejor precio.</p>
+<p>Para aprovechar estas ventajas sin ningún esfuerzo, importa tus productos con el <a href="http://addons.prestashop.com/es/afiliacion-prestashop-modulos/2742-ebay.html" target="_blank">módulo gratuito de eBay</a>. Lo actualizamos hace poco para ayudar a los vendedores de PrestaShop a conquistar el mercado internacional.</p>
+<p>¿Estás preparado para vender en todo el mundo? Los vendedores de Italia y España pueden aprovechar esta oferta para probar una <a href="http://portal.ebay.es/abreunatiendaebaygratuitamente" target="_blank">tienda básica gratuita durante 90 días.</a> Cuando ya tengas un historial en eBay, podrás pasarte a la opción de tienda avanzada.</p>
+<address>*Ten en cuenta que las únicas categorías de tiendas eBay con funciones de venta internacional son: Top Shop y Premium Shop (DE), Boutique A la Une y Boutique Premium (FR), Negozio Premium y Negozio Premium Plus (IT) y Tienda Avanzada y Tienda Premium (ES).</address>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/como-aprovechar-ebay-para-las-ventas-internacionales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Aún no conoces el validador automático de módulos para PrestaShop?</title>
+		<link>http://www.prestashop.com/blog/es/aun-no-conoces-el-validador-automatico-de-modulos-para-prestashop/</link>
+		<comments>http://www.prestashop.com/blog/es/aun-no-conoces-el-validador-automatico-de-modulos-para-prestashop/#comments</comments>
+		<pubDate>Thu, 23 Oct 2014 10:15:25 +0000</pubDate>
+		<dc:creator>Quentin Audrain</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12059</guid>
+		<description><![CDATA[Este validador se gestó un fin de semana cuando uno de nuestros desarrolladores, François Gaillard, decidió dedicarle un par de días a una herramienta que reparara los errores de desarrollo de un módulo. En noviembre de 2013 vio la luz &#8230; <a href="http://www.prestashop.com/blog/es/aun-no-conoces-el-validador-automatico-de-modulos-para-prestashop/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Este validador se gestó un fin de semana cuando uno de nuestros desarrolladores, François Gaillard, decidió dedicarle un par de días a una herramienta que reparara los errores de desarrollo de un módulo.<br />
+En noviembre de 2013 vio la luz la 1ª versión y nuestra comunidad de desarrolladores comenzó a utilizarla. Gaillard, consciente de su éxito, presentó en febrero la 2ª versión con nuevas funcionalidades y sistemas de ayuda.</p>
+<p><img class="aligncenter size-large wp-image-12060" title="validator2" src="http://www.prestashop.com/blog/es/files/2014/10/validator2-1024x537.jpg" alt="" width="584" height="306" /></p>
+<p><span id="more-12059"></span></p>
+<p style="text-align: center;">Hoy te traemos dos novedades: ¡ya puedes despedirte de la barrera de las <span style="color: #76bd43; font-weight: bold;">30 000 validaciones</span> y <span style="color: #76bd43; font-weight: bold;">seguir la evolución de tu módulo</span> con una curva de progresión!</p>
+<p style="margin-left: 30px;"><span style="color: #ed2279; font-weight: bold;">- Errores y avisos:</span> Si el validador detecta anomalías durante la validación, te presenta un informe de errores y avisos para que puedas corregirlos rápidamente.<br />
+<span style="color: #ed2279; font-weight: bold;">- Validación a través del repositorio GitHub:</span> Puedes validar tu módulo directamente en GitHub en repositorios públicos o privados.<br />
+<span style="color: #ed2279; font-weight: bold;">- Generador de módulo:</span> ¡No empieces de cero! Introduce unos cuantos datos sobre tu futuro módulo y descarga un .zip adaptado que cumple las normas PrestaShop. Así de fácil.<br />
+<span style="color: #ed2279; font-weight: bold;">- Búsqueda de clases, métodos y funciones:</span> ¿Quieres saber en qué versiones se usa una clase determinada y en qué archivo está? ¡Usa el buscador diseñado para esta tarea!</p>
+<p><img class="aligncenter size-large wp-image-12061" title="insight" src="http://www.prestashop.com/blog/es/files/2014/10/insight-1024x537.jpg" alt="" width="584" height="306" /></p>
+<p>La finalidad <a href="https://validator.prestashop.com/" target="_blank">del validador</a> es ayudarte a lograr módulos de excelente calidad para los vendedores que van a usarlos. Y además aumenta la compatibilidad durante migraciones, reduce las peticiones de asistencia y simplifica las actualizaciones.</p>
+<p>Es tan sencillo como cargar un módulo y esperar unos segundos a que la herramienta haga su trabajo. Ahorrarás un montón de tiempo. ¡Aprovéchalo!</p>
+<p>Y, sobre todo, no dudes en escribir <a href="mailto:validator@prestashop.com" target="_blank">un correo</a> a François si tienes alguna propuesta de mejora. ¡También puedes encontrarlo en <a href="https://github.com/gaillafr" target="_blank">GitHub</a> y en <a href="https://twitter.com/gaillafr" target="_blank">Twitter</a>!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/aun-no-conoces-el-validador-automatico-de-modulos-para-prestashop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pop-ups en tu sitio web: ejemplos y método para 2015</title>
+		<link>http://www.prestashop.com/blog/es/pop-ups-en-tu-sitio-web-ejemplos-y-metodo-para-2015/</link>
+		<comments>http://www.prestashop.com/blog/es/pop-ups-en-tu-sitio-web-ejemplos-y-metodo-para-2015/#comments</comments>
+		<pubDate>Wed, 22 Oct 2014 09:36:57 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12025</guid>
+		<description><![CDATA[Ha llegado el momento de hablar sobre un tema polémico: los pop-ups. Los pop-ups tienen una mala reputación y mucha gente los considera molestos e invasivos. Sin embargo, actualmente observamos un aumento de este tipo de tácticas en sitios web &#8230; <a href="http://www.prestashop.com/blog/es/pop-ups-en-tu-sitio-web-ejemplos-y-metodo-para-2015/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Ha llegado el momento de hablar sobre un tema polémico: los pop-ups. Los pop-ups tienen una mala reputación y mucha gente los considera molestos e invasivos. Sin embargo, actualmente observamos un aumento de este tipo de tácticas en sitios web bastante populares.</p>
+<p>¿Funcionan los pop-ups? Hoy queremos darles una oportunidad. Vamos a evaluar su eficacia y a descubrir cómo utilizarlos de forma apropiada para evitar ser las inoportunas ventanas tan odiadas los internautas.</p>
+<p><img class="aligncenter size-large wp-image-12036" title="popup5" src="http://www.prestashop.com/blog/es/files/2014/10/popup5-1024x537.jpg" alt="" width="584" height="306" /></p>
+<p><span id="more-12025"></span></p>
+<h2><span style="color: #64a101;">¿Qué es un pop-up?</span></h2>
+<p>En realidad, existen varios tipos de pop-ups, pero el objetivo siempre es el mismo: abrir un cuadro o una ventana que sobresalga sobre el contenido de un sitio web. En otras palabras, se trata de que un contenido destaque y oculte otro contenido. Existen dos tipos principales, denominados pop-ups y pop-ins:</p>
+<p style="padding-left: 30px;">El <span style="text-decoration: underline;">pop-up</span> es una nueva ventana del navegador que se abre sobre la ventana de navegación principal sin que el visitante lo haya pedido.<br />
+El <span style="text-decoration: underline;">pop-in</span> es similar al pop-up. Permite visualizar un contenido en una página web con la diferencia de que el pop-in se abre en la misma página y no en una nueva ventana del navegador.</p>
+<p>Aunque existen varias denominaciones, el término pop-up es el que más suele emplearse y es el que vamos a utilizar en este artículo. Por tanto, dejamos claro que, cuando hablemos de pop-up, nos referiremos a pop-in, es decir, un cuadro en la misma página y no una nueva ventana.</p>
+<h4><span style="color: #0232a0;">¿Cómo se utilizan en los sitios de comercio electrónico?</span></h4>
+<p>Se utilizan por lo general para realizar sondeos, conseguir nuevas suscripciones a la newsletter, captar nuevos fans en las redes sociales, promocionar una oferta especial&#8230;</p>
+<h2 style="text-align: left;"><span style="color: #64a101;">¿Enemigo público número uno o crack de la conversión?</span></h2>
+<h4><span style="color: #0232a0;"><strong>Las ventajas de los pop-ups</strong></span></h4>
+<p>Las acciones que proponen los pop-ups muestran un índice de conversión mucho más alto que cuando se presentan en un sencillo anuncio en el sitio. No hay duda de que este formato de mensaje, que se impone ante la vista del visitante, llama su atención.</p>
+<p>Kiss metrics comparte estudios de casos interesantes sobre el impacto de los pop-ups en su artículo <a href="https://blog.kissmetrics.com/three-risky-ecommerce-techniques/" target="_blank">Tres técnicas arriesgadas de comercio electrónico que podrían aumentar su conversión.</a></p>
+<p>Este artículo nos explica en particular el caso del autor del blog ProBlogger, Darren Rowse, que aumentó las suscripciones a su newsletter en un <strong>900</strong>% gracias a este sistema, o el de una bloguera que decidió incorporar un pop-up y logró una subida de las suscripciones del<strong> 1,375%</strong>.</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline; color: #333333;"><strong>Ventajas</strong></span></p>
+<p style="padding-left: 30px;"><strong></strong>- Capta la atención de los visitantes<br />
+- Aumenta rápidamente el índice de conversión</p>
+<h4><span style="color: #0232a0;"><strong>Los pop-ups, un arma de doble filo</strong></span></h4>
+<p>Acabamos de ver que los pop-ups presentan ventajas apreciables. No obstante, hay que recalcar que los internautas suelen reaccionar cerrando automáticamente el pop-up, de ahí la importancia de pensarse bien el mensaje que se va a transmitir. Además, si quieres instalar pop-ups en un sitio web, debes ser consciente de los riesgos vinculados a un mal uso.</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline; color: #333333;"><strong>Limitaciones</strong></span></p>
+<p style="padding-left: 30px;"><strong></strong>- Carácter invasivo porque se abre automáticamente y precisa una acción por parte del internauta<br />
+- Mala reputación por los numerosos anuncios poco interesantes que utilizan este formato<br />
+- Una mala utilización puede molestar a los visitantes y perjudicar tu tienda</p>
+<h2><span style="color: #64a101;">Retrato-robot de un pop-up eficaz</span></h2>
+<p>Debido a los inconvenientes mencionados anteriormente, incluimos a continuación las buenas prácticas que se deben aplicar y los errores que es mejor evitar.</p>
+<h4><span style="text-decoration: underline; color: #0232a0;">Lo que se debe hacer</span></h4>
+<p style="padding-left: 30px;">• Utilizar un pop-up con el efecto <a href="http://digitalmarketing-glossary.com/What-is-Lightbox-definition" target="_blank">lightbox</a><br />
+• Facilita su cierre con un simple clic fuera del pop-up o incluye una cruz bien visible.<br />
+• Utiliza una tracking cookie para evitar que el pop-up se vuelva a activar cada vez que el visitante abra tu sitio web.<br />
+• Activa el pop-up después de un minuto o después de haber visualizado dos páginas. Estos ajustes permiten al visitante conocerte mejor antes de pedirle realizar una acción.<br />
+• El contenido de tu pop-up tiene que resultar interesante para los visitantes. Presta especial atención al título para animar a los visitantes a realizar la acción. Por ejemplo, indica el número de personas que ya se han suscrito a tu newsletter o propón un descuento por cada suscripción.<br />
+• Prueba diferentes diseños y distintos parámetros de visualización hasta dar con lo que más te convenga.</p>
+<h4><span style="text-decoration: underline; color: #0232a0;">Lo que no se debe hacer</span></h4>
+<p style="padding-left: 30px;">• No actives muy a menudo tus pop-ups porque podrían catalogarte como spam.<br />
+• No pidas demasiada información. Por ejemplo, el correo electrónico, el nombre y los apellidos tendrían que bastar para una suscripción a la newsletter.<br />
+• Si no quieres perder definitivamente a tus visitantes, no utilices los pop-ups que se activan cuando desean abandonar una página.</p>
+<h2><span style="color: #64a101;">Ejemplos</span></h2>
+<p>Para inspirarte, he aquí algunos ejemplos de tiendas PrestaShop que utilizan pop-ups:</p>
+<h4 style="text-align: left;"><a href="http://www.enviedefraises.com/" target="_blank">Envie de Fraises</a><br />
+<img class="aligncenter  wp-image-12029" title="pop in 1" src="http://www.prestashop.com/blog/es/files/2014/10/pop-in-1.png" alt="" width="439" height="311" /></h4>
+<p style="padding-left: 30px;"><span style="color: #b9086b;"><strong>Lo que nos gusta</strong></span></p>
+<p style="padding-left: 30px;">• Que animan a la acción con 10 euros gratuitos al suscribirse a la newsletter<br />
+• Que el botón de acción se destaca con un enunciado atractivo</p>
+<h4 style="text-align: left;"><a href="http://myjoliecandle.com/en/" target="_blank">My Jolie Candle</a><br />
+<img class="aligncenter  wp-image-12030" title="pop in 2" src="http://www.prestashop.com/blog/es/files/2014/10/pop-in-2.png" alt="" width="371" height="329" /></h4>
+<p style="padding-left: 30px;"><span style="color: #b9086b;"><strong>Lo que nos gusta</strong></span></p>
+<p style="padding-left: 30px;">• Que aparezca el número de fans en Facebook, pues aporta credibilidad a la tienda<br />
+• Que el código promocional se incluya directamente en el pop-up es perfecto para llamar la atención e incitar a la compra</p>
+<h4 style="text-align: left;"><a href="http://www.rotring.com/en/" target="_blank">Rotring</a><br />
+<img class="aligncenter  wp-image-12031" title="pop in 3" src="http://www.prestashop.com/blog/es/files/2014/10/pop-in-3.png" alt="" width="349" height="408" /></h4>
+<p style="padding-left: 30px;"><span style="color: #b9086b;"><strong>Lo que nos gusta</strong></span></p>
+<p style="padding-left: 30px;">• Que la cruz sea totalmente visible, lo que permite cerrar el pop-up con facilidad<br />
+• Que el pop-up aparece pasados tres clics</p>
+<h4 style="text-align: left;"><a href="http://www.americanvintage-store.com/en/" target="_blank">American Vintage</a></h4>
+<p style="text-align: center;"><img class="aligncenter  wp-image-12032" title="pop in 4" src="http://www.prestashop.com/blog/es/files/2014/10/pop-in-4.png" alt="" width="503" height="260" /></p>
+<p style="padding-left: 30px;"><span style="color: #b9086b;"><strong>Lo que nos gusta</strong></span></p>
+<p style="padding-left: 30px;">• Que se pueda cerrar fácilmente con un simple clic fuera del pop-up<br />
+• Que se anuncian las ventajas para el visitante sin rodeos</p>
+<h4><span style="color: #0232a0;">Cómo instalar un pop-up</span></h4>
+<p>¿Te gustaría probar los pop-ups en tu tienda PrestaShop? Aquí tienes dos módulos que te permitirán crear y gestionar con facilidad los pop-ups:</p>
+<p style="text-align: center;"><a href="http://addons.prestashop.com/es/aplicaciones-front-office-prestashop-modulos/2191-box-notification-popup.html" target="_blank">Module Box Notification </a> o <a href="http://addons.prestashop.com/es/publicidad-marketing-newsletter-modulos/17079-marketing-popup.html" target="_blank">Module Marketing Popup</a></p>
+<h2><span style="color: #64a101;">Conclusión</span></h2>
+<p>Aunque no se pueda negar el intrusismo de los pop-ups, puedes obtener resultados sorprendentes si los utilizas de manera correcta. Será tu mejor amigo o tu peor enemigo, según cómo lo utilices.<br />
+En definitiva, siempre hay que: PROBAR y ANALIZAR</p>
+<h4><span style="color: #0232a0;">Pop-ups: ¿sí o no?</span></h4>
+<p>Como nunca hay unanimidad, nos gustaría conocer tu opinión sobre la pregunta. ¿Tienes experiencias que compartir? Esperamos tus comentarios para animar el debate.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/pop-ups-en-tu-sitio-web-ejemplos-y-metodo-para-2015/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Cinco felicitaciones que todo sitio de e-commerce debe enviar</title>
+		<link>http://www.prestashop.com/blog/es/cinco-felicitaciones-que-todo-sitio-de-e-commerce-debe-enviar/</link>
+		<comments>http://www.prestashop.com/blog/es/cinco-felicitaciones-que-todo-sitio-de-e-commerce-debe-enviar/#comments</comments>
+		<pubDate>Tue, 21 Oct 2014 14:58:18 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12040</guid>
+		<description><![CDATA[Los consumidores empezarán a recibir una avalancha de correos con ofertas navideñas en cuestión de semanas&#8230; ¡si no están recibiéndolos ya! Hemos recopilado cinco correos que te ayudarán a destacar y cinco consejos para no ser el aguafiestas. Guía de &#8230; <a href="http://www.prestashop.com/blog/es/cinco-felicitaciones-que-todo-sitio-de-e-commerce-debe-enviar/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Los consumidores empezarán a recibir una avalancha de correos con ofertas navideñas en cuestión de semanas&#8230; ¡si no están recibiéndolos ya! Hemos recopilado cinco correos que te ayudarán a destacar y cinco consejos para no ser el aguafiestas.</p>
+<p><img class="aligncenter size-large wp-image-12041" title="5emailsholiday" src="http://www.prestashop.com/blog/es/files/2014/10/5emailsholiday-1024x537.png" alt="" width="584" height="306" /></p>
+<p><span id="more-12040"></span></p>
+<h2><span style="color: #265e37;">Guía de regalos</span></h2>
+<p>Una guía de regalos es una de las herramientas básicas para preparar la campaña de Navidad. Ayudará a tus clientes a tomar decisiones de compra y el envío de un correo específico te permitirá dirigir tráfico exactamente adonde quieres y, con suerte, ¡a aumentar las ventas!</p>
+<p>Piensa qué productos pueden ser un buen regalo o formar parte de un pack de regalo y anúncialos con fotos desplegables y descripciones sugerentes.</p>
+<p>Nos encanta el toque fresco que le ha dado Revolve Clothing a su guía de regalos. Imágenes llenas de color y buenos textos que crean una herramienta muy visual pensada para vender:</p>
+<p><img class="aligncenter size-full wp-image-12042" title="holiday guide email 1" src="http://www.prestashop.com/blog/es/files/2014/10/holiday-guide-email-1.gif" alt="" width="580" height="730" /></p>
+<p>Échale un vistazo al correo con la guía de regalos de Tom&#8217;s. Sencillo y elegante:</p>
+<p><img class="aligncenter size-large wp-image-12043" title="holiday guide email 2" src="http://www.prestashop.com/blog/es/files/2014/10/holiday-guide-email-2-546x1024.jpg" alt="" width="546" height="1024" /></p>
+<h2><span style="color: #265e37;">¿Quieres saber más?</span></h2>
+<p>Consigue el artículo completo y descubre otros muchos consejos para preparar las Navidades descargando nuestra <a href="http://www.prestashop.com/es/guia-ecomercio-de-navidad" target="_blank">Guía ecommerce para las Navidades 2014 gratuita</a>.</p>
+<p>Con esta guía podrás:</p>
+<p style="padding-left: 60px;">✓ Preparar las fechas clave con un calendario<br />
+✓ Optimizar el diseño de tu web para aumentar las ventas<br />
+✓ Diseñar una estrategia navideña mediante técnicas SEO<br />
+✓ Descubrir los mejores trucos para el envío de regalos<br />
+✓ Poner en marcha promociones eficaces que conviertan visitantes en compradores<br />
+✓ Enviar felicitaciones electrónicas perfectas para animar las ventas<br />
+✓ Organizarte gracias a una completa lista de tareas</p>
+<p>Estas navidades, regálale a tu negocio un éxito asegurado. Descarga la <a href="http://www.prestashop.com/es/guia-ecomercio-de-navidad" target="_blank">Guía ecommerce para las Navidades 2014 </a>ahora mismo.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/cinco-felicitaciones-que-todo-sitio-de-e-commerce-debe-enviar/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tres reglas de oro para gestionar las reclamaciones de clientes</title>
+		<link>http://www.prestashop.com/blog/es/tres-reglas-de-oro-para-gestionar-las-reclamaciones-de-clientes/</link>
+		<comments>http://www.prestashop.com/blog/es/tres-reglas-de-oro-para-gestionar-las-reclamaciones-de-clientes/#comments</comments>
+		<pubDate>Mon, 20 Oct 2014 14:03:09 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Asociados PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12015</guid>
+		<description><![CDATA[Una reclamación no es un asunto divertido ni fácil de gestionar. Sin embargo, la respuesta adecuada puede contribuir a afianzar la lealtad del cliente y mejorar tu negocio. ¿Quieres dominar la gestión de las reclamaciones? Lee esta entrevista a Karina &#8230; <a href="http://www.prestashop.com/blog/es/tres-reglas-de-oro-para-gestionar-las-reclamaciones-de-clientes/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Una reclamación no es un asunto divertido ni fácil de gestionar. Sin embargo, la respuesta adecuada puede contribuir a afianzar la lealtad del cliente y mejorar tu negocio.</p>
+<p>¿Quieres dominar la gestión de las reclamaciones? Lee esta entrevista a Karina Ludz de <a href="http://addons.prestashop.com/es/administracion-prestashop-modulo/17727-yousticeresolutionsystem.html" target="_blank">Youstice</a>, una plataforma internacional de resolución de litigios. En ella encontrarás tres reglas de oro para resolver estas situaciones.</p>
+<p><img class="aligncenter size-large wp-image-12021" title="Customer-Complaints-colorlign" src="http://www.prestashop.com/blog/es/files/2014/10/Customer-Complaints-colorlign-1024x537.png" alt="" width="584" height="306" /></p>
+<p><span id="more-12015"></span></p>
+<h4><span style="color: #9f5c9f;">Regla 1: Trata al cliente personalmente, no como si fuera un númer</span>o</h4>
+<p>Escucha a tu cliente y dale una respuesta personalizada. No intentes «venderle» la típica solución estándar fría y calculada. No temas las críticas y presta atención a todas las opiniones: puedes descubrir carencias de tu empresa o tus productos.</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;"><em><span style="color: #9f5c9f; text-decoration: underline;">Resultados:</span></em></span><br />
+Escuchar al cliente y actuar en consecuencia te ayudará a mejorar tus productos y el servicio al cliente o, lo que es lo mismo, te allanará el camino hacia el éxito. Y no lo olvides: no importa lo buena que sea tu atención al cliente, siempre se puede mejorar.<br />
+<span style="text-decoration: underline;"><span style="color: #9f5c9f;"><em>Por qué es esencial:</em></span></span><br />
+Las necesidades y demandas del cliente cambian más rápido que nunca. Si tratas al cliente como si fuera un número, te arriesgas a que quede descontento&#8230; en un mercado en constante cambio.<br />
+<span style="text-decoration: underline;"><span style="color: #9f5c9f;"><em>Ejemplo:</em></span></span><br />
+<strong>Cliente:</strong> Me ha llegado un artículo equivocado y ¡me encanta! Pero también quiero el que yo pedí.<br />
+<strong>Vendedor:</strong> ¡Nos alegra saber que te gusta nuestro producto! Normalmente solicitamos la devolución del artículo erróneo pero si te ha gustado, estaremos encantados de facturártelo y enviarte además el artículo original. Te lo mandaremos gratis para compensar nuestro error inicial.</p>
+<h4><span style="color: #9f5c9f;">Regla 2: No dejes que el problema crezca: ofrece una solución satisfactoria para ambas partes</span></h4>
+<p>A la hora de resolver una reclamación de un cliente no puede haber un solo ganador. Busca una solución que os beneficie a ambos. ¡Y evita que el problema desemboque en críticas negativas a tu empresa!</p>
+<p style="padding-left: 30px;"><span style="text-decoration: underline;"><span style="color: #9f5c9f;"><em>Resultados:</em></span></span><br />
+Una solución beneficiosa para las dos partes demuestra a tu cliente que sabes reaccionar. Resolver las quejas con rapidez y profesionalidad incrementa la lealtad del cliente y garantiza que siga comprando en tu tienda&#8230; en vez de en la competencia.<br />
+<span style="text-decoration: underline;"><em><span style="color: #9f5c9f; text-decoration: underline;">Por qué es esencial</span>:</em></span><br />
+Un problema descontrolado puede dañar tu reputación. Y en un mercado tan competitivo como el actual, el cliente puede buscar otra tienda en un clic. ¡No espantes a tus clientes con una mala atención!<br />
+<span style="text-decoration: underline;"><span style="color: #9f5c9f;"><em>Ejemplo:</em></span></span><br />
+<strong>Cliente: </strong>El paquete no ha llegado a tiempo según lo indicado en la información de seguimiento.<br />
+<strong>Vendedor:</strong> Lamentamos que el paquete haya llegado con retraso. Por desgracia, cuando la mercancía sale de nuestro almacén, dejamos de tener control sobre la entrega. Hablaremos con nuestro transportista para saber qué ha pasado y volveremos a ponernos en contacto contigo.</p>
+<h4><span style="color: #9f5c9f;">Regla 3: Céntrate en los hechos, no en las emociones</span></h4>
+<p>No dejes que los sentimientos interfieran. Cuando trates con un cliente descontento, sé profesional y céntrate en lo importante. Para ganarte el favor —y el respeto— del cliente, atente a los hechos y ofrece soluciones tangibles. Y sé sincero. No ocultes datos sobre tu oferta ni prometas lo que no puedes cumplir. La honradez es <em>siempre </em>la mejor política.</p>
+<p style="padding-left: 30px;"><em><span style="text-decoration: underline;"><span style="color: #9f5c9f; text-decoration: underline;">Resultados</span></span>:</em><br />
+Atenerte a los hechos te ayudará a llegar a la raíz del problema. Si sabes cuál es la causa exacta del descontento del cliente, podrás darle una solución más rápida y eficaz. Es la forma perfecta de prestar un servicio al cliente puntual y profesional.<br />
+<span style="text-decoration: underline;"><em><span style="color: #9f5c9f; text-decoration: underline;">Por qué es esencial</span>:</em></span><br />
+Los sentimientos pueden magnificar un problema en cuestión de minutos. Y te arriesgas a que un cliente descontento cuente su experiencia negativa a sus amigos. Este comportamiento puede dañar a tu empresa y hacer que pierdas posibles clientes.<br />
+<span style="text-decoration: underline;"><span style="color: #9f5c9f;"><em>Ejemplo:</em></span></span><br />
+<strong>Cliente: </strong>Empiezo a estar harto. Es la tercera vez que intento hacer un pedido y no lo consigo. Y tampoco hablar con atención al cliente.<br />
+<strong>Vendedor:</strong> Vamos a intentar hacer el pedido juntos. Si encontramos un error, tomaré nota de tu pedido por teléfono. Por otra parte, ¿por qué medios has intentado hablar con nosotros? Quiero asegurarme de que en el futuro atenderemos las consultas puntualmente.</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-12022" title="Youstice_logo_horiz_white" src="http://www.prestashop.com/blog/es/files/2014/10/Youstice_logo_horiz_white.jpg" alt="" width="400" height="102" /></p>
+<hr align="left" size="2" width="20%" />
+<p>¿Ya aplicas alguna de estas reglas? ¿Cómo lo haces? ¡Déjanos tus comentarios!</p>
+<p>¿Te sobrepasan las quejas de los clientes? Tenemos la solución: <a href="http://addons.prestashop.com/es/administracion-prestashop-modulo/17727-yousticeresolutionsystem.html" target="_blank">el módulo gratuito Youstice</a>, que puedes descargar directamente del back-office. Es un revolucionario servicio de acceso a una plataforma desde la que podrás gestionar las quejas de los clientes&#8230; ¡sin esfuerzo!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/tres-reglas-de-oro-para-gestionar-las-reclamaciones-de-clientes/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Calendario para planificar las fiestas de fin de año 2014</title>
+		<link>http://www.prestashop.com/blog/es/calendario-para-planificar-las-fiestas-de-fin-de-ano-2014/</link>
+		<comments>http://www.prestashop.com/blog/es/calendario-para-planificar-las-fiestas-de-fin-de-ano-2014/#comments</comments>
+		<pubDate>Thu, 16 Oct 2014 13:36:58 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=12009</guid>
+		<description><![CDATA[La vorágine navideña ya ha empezado: tienes que hacer malabarismos con el servicio de atención al cliente, cerrar pedidos, envolver regalos, redactar campañas electrónicas, gestionar el inventario&#8230; y mil cosas más. Con este calendario podrás prepararte para las fechas señaladas &#8230; <a href="http://www.prestashop.com/blog/es/calendario-para-planificar-las-fiestas-de-fin-de-ano-2014/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>La vorágine navideña ya ha empezado: tienes que hacer malabarismos con el servicio de atención al cliente, cerrar pedidos, envolver regalos, redactar campañas electrónicas, gestionar el inventario&#8230; y mil cosas más. Con este calendario podrás prepararte para las fechas señaladas con antelación y evitar los líos de última hora.</p>
+<p><img class="aligncenter size-large wp-image-12010" title="Holiday-Calendar" src="http://www.prestashop.com/blog/es/files/2014/10/Holiday-Calendar-1024x537.png" alt="" width="584" height="306" /></p>
+<p><span id="more-12009"></span></p>
+<p><em>Tenlo todo listo para las fiestas de fin de año con esta agenda para vendedores online.</em></p>
+<h4><span style="color: #782527;">Octubre</span></h4>
+<p><span style="color: #000000;">13:</span> Llena el almacén y no te olvides de los artículos más vendidos<br />
+<span style="color: #000000;">15:</span> Pon en marcha el SEO navideño y las campañas publicitarias<br />
+<span style="color: #000000;">20:</span> Actualiza tu blog con ideas para encontrar el regalo perfecto<br />
+<span style="color: #000000;">22:</span> Anima a hacer las compras navideñas con antelación</p>
+<h4><span style="color: #782527;">¿Quieres saber más?</span></h4>
+<p>Consigue el artículo completo y descubre otros muchos consejos para preparar las Navidades descargando nuestra <a href=" http://www.prestashop.com/es/guia-ecomercio-de-navidad" target="_blank">Guía ecommerce para las Navidades 2014 </a><em>gratuita</em>.</p>
+<p>Con esta guía podrás:</p>
+<p style="padding-left: 30px;">✓ Preparar las fechas clave con un calendario<br />
+✓ Optimizar el diseño de tu web para aumentar las ventas<br />
+✓ Diseñar una estrategia navideña mediante técnicas SEO<br />
+✓ Descubrir los mejores trucos para el envío de regalos<br />
+✓ Poner en marcha promociones eficaces que conviertan visitantes en compradores<br />
+✓ Enviar felicitaciones electrónicas perfectas para animar las ventas<br />
+✓ Organizarte gracias a una completa lista de tareas</p>
+<p>Estas navidades, regálale a tu negocio un éxito asegurado. Descarga la <a href="http://www.prestashop.com/es/guia-ecomercio-de-navidad" target="_blank">Guía ecommerce para las Navidades 2014 </a>ahora mismo.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/calendario-para-planificar-las-fiestas-de-fin-de-ano-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cómo estructurar tu tienda online con las palabras clave para SEO – Segunda Parte</title>
+		<link>http://www.prestashop.com/blog/es/como-estructurar-tu-tienda-online-con-las-palabras-clave-para-seo-parte-22/</link>
+		<comments>http://www.prestashop.com/blog/es/como-estructurar-tu-tienda-online-con-las-palabras-clave-para-seo-parte-22/#comments</comments>
+		<pubDate>Wed, 15 Oct 2014 15:33:03 +0000</pubDate>
+		<dc:creator>Gary Le Masson</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11972</guid>
+		<description><![CDATA[En la 1ª parte de nuestro manual, Cómo encontrar las palabras clave adecuadas para el SEO de tu sitio web de comercio electrónico, te mostré un método sencillo para identificar las palabras clave más importantes para tu tienda online. Ahora &#8230; <a href="http://www.prestashop.com/blog/es/como-estructurar-tu-tienda-online-con-las-palabras-clave-para-seo-parte-22/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>En la 1ª parte de nuestro manual, <a href="http://www.prestashop.com/blog/es/como-encontrar-las-palabras-clave-adecuadas-para-tu-tienda-online-la-guia-de-palabras-clave-para-seo-primera-parte/" target="_blank">Cómo encontrar las palabras clave adecuadas para el SEO de tu sitio web de comercio electrónico</a>, te mostré un método sencillo para identificar las palabras clave más importantes para tu tienda online.</p>
+<p>Ahora que ya tienes tus palabras clave, vamos a explorar uno de los temas que más me gustan: la estructuración optimizada de un sitio web para el posicionamiento.</p>
+<p>En las páginas de comercio electrónico, la etapa de estructuración debe consistir, antes que nada, en organizar las categorías y la navegación de los internautas.</p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11970" title="SEO-21-1024x307" src="http://www.prestashop.com/blog/es/files/2014/10/SEO-21-1024x307.png" alt="" width="590" height="177" /></p>
+<p style="text-align: center;"><span id="more-11972"></span></p>
+<p><strong>Para trabajar y realizar la estructura, te recomiendo dos herramientas:</strong></p>
+<p style="padding-left: 60px;">- Una hoja de cálculo como Excel en la que introduzcas todas tus palabras clave.<br />
+- Y la herramienta Open Source <a href="http://freemind.sourceforge.net/wiki/index.php/Download" target="_blank">Freemind</a>, que te permitirá crear un árbol de directorios. La herramienta es gratuita y compatible con todos los sistemas operativos.</p>
+<p>En este artículo, tomaré como ejemplo una semántica sobre las camisetas.</p>
+<p>Para ello, he reunido alrededor de 50 palabras clave en inglés, almacenadas en Estados Unidos y en el Reino Unido, y he recuperado los volúmenes de búsqueda de la herramienta de palabras clave de Google Adwords.</p>
+<h2><span style="color: #009bdf;"><strong>¿Cuántas palabras clave conviene tener?</strong></span></h2>
+<p>No hay un número ideal de palabras clave, sino que depende sobre todo de ti y de la actividad de tu sitio web de venta: un sitio pequeño tendrá pocas palabras clave, uno más grande tendrá más, y así sucesivamente.</p>
+<h2><span style="color: #009bdf;"><strong>Definición del volumen de búsqueda</strong></span></h2>
+<p>Según Google, el volumen de búsqueda corresponde al volumen de búsqueda medio mensual observado en una palabra clave durante los últimos 12 meses, en la lengua y en la región indicada (solo en Google).</p>
+<h2><span style="color: #009bdf;"><strong>Observemos con detalle estas palabras clave.</strong></span></h2>
+<p>Lo primero que puedes constatar es que todas las palabras clave no tienen la misma importancia en lo que se refiere al volumen de búsqueda. Por lo general, cuanto mayor sea el volumen de búsqueda de una palabra clave, más competencia habrá y más difícil será posicionarse en la primera página de Google.</p>
+<p style="text-align: center;"><strong>Ejemplo de la larga cola que presenta la semántica de &#8220;camiseta&#8221;</strong></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11965" title="SEO2 IMG1" src="http://www.prestashop.com/blog/es/files/2014/10/SEO2-IMG1.png" alt="" width="571" height="376" /></p>
+<h2><span style="color: #009bdf;"><strong>Diferentes modos de escribir lo mismo.</strong></span></h2>
+<p>En el mundo del posicionamiento natural, a menudo decimos que es el internauta el que siempre tiene la razón y nos damos cuenta de que estos pueden escribir de manera diferente la misma palabra clave:</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-11966" title="SEO2 IMG2" src="http://www.prestashop.com/blog/es/files/2014/10/SEO2-IMG2.png" alt="" width="218" height="233" /></p>
+<p>Observa que las diferentes maneras en las que la gente escribe sus búsquedas en Google no están enfocadas a originar una categoría de producto específica.</p>
+<p>Por tanto, puedes agrupar tus palabras clave según la petición realizada por el internauta y lograr un grupo de categorías desordenadas:</p>
+<p><strong>Las palabras clave similares se agrupan para crear las diferentes categorías de mi tienda.</strong></p>
+<p><img class="size-full wp-image-11967 aligncenter" title="SEO2 IMG3" src="http://www.prestashop.com/blog/es/files/2014/10/SEO2-IMG3.png" alt="" width="468" height="233" /></p>
+<h2><span style="color: #009bdf;"><strong>Organicémoslo en un sitio de comercio electrónico que sea &#8220;SEO FRIENDLY&#8221;</strong></span></h2>
+<p>Cuando hayas agrupado todas las palabras clave y terminado de crear las categorías de tu tienda, puedes abrir tu herramienta de Mind Mapping Freemind:</p>
+<p style="text-align: center;"> <strong>Propuesta de organización de categorías Versión 0.1</strong></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11968" title="SEO2 IMG4" src="http://www.prestashop.com/blog/es/files/2014/10/SEO2-IMG4.png" alt="" width="567" height="502" /></p>
+<h2><span style="color: #009bdf;"><strong>Cuando el SEO y la ergonomía se enfrentan</strong></span></h2>
+<p>Para poder organizar bien todas estas categorías entre sí, he creado dos nuevas categorías que no están ligadas al posicionamiento, sino más bien a la necesidad de organizar la tienda de un modo lógico para el internauta:</p>
+<p style="padding-left: 60px;">- Estilos</p>
+<p style="padding-left: 60px;">- Marcas</p>
+<h2><span style="color: #009bdf;"><strong>Valida el funcionamiento del árbol de directorios</strong></span></h2>
+<p>Cuando crees tu árbol de directorios, piensa en la navegación que propondrás al internauta y en los filtros que pondrás a su disposición en cada página. Antes de aprobar tu árbol de directorios, comprueba que se ajusta a esta checklist:</p>
+<p style="padding-left: 30px;"><strong>Navegación descendente:</strong></p>
+<p style="padding-left: 30px;">Puedo salir de la página de inicio y bajar por las categorías para buscar la camiseta que quiero, sea cual sea.</p>
+<p style="padding-left: 30px;"><strong>Navegación ascendente:</strong></p>
+<p style="padding-left: 30px;">Puedo comenzar a navegar en las categorías más remotas y ascender en el árbol de directorios sin que me resulte confuso o complicado. Por lo general, es la &#8220;<a href="http://es.wikipedia.org/wiki/Miga_de_pan_(inform%C3%A1tica)" target="_blank">miga de pan</a>&#8221; la que garantiza esta función.</p>
+<p style="padding-left: 30px;"><strong>Acumular filtros entre sí</strong></p>
+<p style="padding-left: 30px;"><strong></strong>¿Mis categorías actuales bastan para satisfacer al visitante? ¿Puedo, por ejemplo, acumular los filtros de [estilos] con los filtros de [sexo]?</p>
+<p>En la primera versión de mi árbol de directorios, me di cuenta de que no sugería a los visitantes que consultasen las páginas que contenían &#8220;Camisetas Geek para Hombre&#8221; o incluso &#8220;Camisetas cool para mujer&#8221;.</p>
+<p>Por tanto, decidí actualizarlo añadiendo nuevas categorías que podrían resultar interesantes para mis visitantes y para el SEO.</p>
+<p style="text-align: center;"><strong>Propuesta de organización de categorías Versión 0.2</strong></p>
+<p style="text-align: center;"><img class="aligncenter  wp-image-11969" title="SEO2 IMG5" src="http://www.prestashop.com/blog/es/files/2014/10/SEO2-IMG5.png" alt="" width="659" height="621" /></p>
+<p style="text-align: left;"> <em>Para favorecer la legibilidad de este ejemplo, solo he representado las categorías [estilos] unidas al [sexo], pero ya puedes imaginarte que se pueden combinar con las [marcas] o incluso los filtros de colores, y crear así diferentes páginas.</em></p>
+<p><strong>Acuérdate de la navegación transversal:</strong></p>
+<p>Imagina que un visitante te encuentra en Google cuando escribe la palabra clave &#8220;camisetas cool&#8221;. Llegará a la página correspondiente de tu sitio web, pero seguramente querrá filtrar sus resultados con un criterio de [sexo]. Por lo tanto, es importante que propongas al internauta una navegación que le lleve hacia otras páginas interesantes y complementarias. Esta navegación transversal se representa con las fechas del esquema superior.</p>
+<h2><span style="color: #009bdf;"><strong>No olvides que el visitante va antes que tu SEO</strong></span></h2>
+<p>Te recordamos que no es Google quien compra productos en tu tienda, sino los visitantes que buscan tus productos. Por tanto, piensa antes en el visitante que en el posicionamiento. El objetivo es proponer transacciones que sean &#8220;SEO friendly&#8221; y ergonómicas.</p>
+<h2><span style="color: #009bdf;"><strong>Incorpora las categorías a tu tienda PrestaShop</strong></span></h2>
+<p>Cuando la organización te parezca adecuada, ¡pasa a la acción e integra las categorías directamente en tu tienda PrestaShop!</p>
+<p>Si necesitas ayuda, aquí tienes también un tutorial en inglés &#8220;<a href="https://www.youtube.com/channel/UCyU5wkjgQYGRB0hIHMwm2Sg" target="blank"><strong>LevelUpTuts</strong></a>&#8221; sobre la creación de categorías.</p>
+<p><iframe src="//www.youtube.com/embed/b7cxTQx5P5o" frameborder="0" width="560" height="315"></iframe></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/como-estructurar-tu-tienda-online-con-las-palabras-clave-para-seo-parte-22/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Prepara tu tienda online para las Navidades 2014</title>
+		<link>http://www.prestashop.com/blog/es/prepara-tu-tienda-online-para-las-navidades-2014/</link>
+		<comments>http://www.prestashop.com/blog/es/prepara-tu-tienda-online-para-las-navidades-2014/#comments</comments>
+		<pubDate>Mon, 13 Oct 2014 14:20:47 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Tendencias E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11948</guid>
+		<description><![CDATA[Las navidades son sin duda la época más importante del año para los vendedores online. Los compradores utilizan cada vez más las tiendas electrónicas porque son una forma cómoda y fácil de hacer sus compras navideñas. En 2013 las ventas &#8230; <a href="http://www.prestashop.com/blog/es/prepara-tu-tienda-online-para-las-navidades-2014/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignleft size-medium wp-image-11952" style="float: left; padding-right: 10px;" title="ES_Holiday-Guide-2014-ES-1" src="http://www.prestashop.com/blog/es/files/2014/10/ES_Holiday-Guide-2014-ES-1-212x300.jpg" alt="" width="212" height="300" />Las navidades son sin duda la época más importante del año para los vendedores online. Los compradores utilizan cada vez más las tiendas electrónicas porque son una forma cómoda y fácil de hacer sus compras navideñas. En 2013 las ventas online aumentaron un 12 %: una señal muy clara de adónde van las cosas. Y este año no va a ser menos. La época de hacer una buena caja ya está llamando a tu puerta. ¡No dejes pasar esta oportunidad que solo se presenta una vez al año!</p>
+<p>¡Descarga gratis la <a href="http://www.prestashop.com/es/guia-ecomercio-de-navidad" target="_blank">Guía ecommerce para las Navidades 2014</a> ahora mismo! El libro PDF está disponible en <a href="http://www.prestashop.com/en/ecommerce-holiday-guide" target="_blank">inglés</a>, <a href="http://www.prestashop.com/fr/guide-ecommerce-de-noel" target="_blank">francés</a> y <a href="http://www.prestashop.com/es/guia-ecomercio-de-navidad" target="_blank">español</a>.</p>
+<p><strong>Con esta guía podrás:</strong></p>
+<p style="padding-left: 30px;"><span style="color: #9f1303;">✓</span> Preparar las fechas clave con un calendario<br />
+<span style="color: #9f1303;">✓</span> Optimizar el diseño de tu web para aumentar las ventas<br />
+<span style="color: #9f1303;">✓</span> Diseñar una estrategia navideña mediante técnicas SEO<br />
+<span style="color: #9f1303;">✓</span> Descubrir los mejores trucos para el envío de regalos<br />
+<span style="color: #9f1303;">✓</span> Poner en marcha promociones eficaces que conviertan visitantes en compradores<br />
+<span style="color: #9f1303;">✓</span> Enviar felicitaciones electrónicas perfectas para animar las ventas<br />
+<span style="color: #9f1303;">✓</span> Organizarte gracias a una completa lista de tareas</p>
+<p>Prepárate con antelación, aprovecha estos trucos básicos y te llevarás el mejor regalo: una campaña navideña llena de ventas.</p>
+<p>¡Descarga la <a href="http://www.prestashop.com/es/guia-ecomercio-de-navidad" target="_blank">Guía ecommerce para las Navidades 2014</a> ahora!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/prepara-tu-tienda-online-para-las-navidades-2014/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Las diez cosas en las que tienes que pensar antes de diseñar una tienda online</title>
+		<link>http://www.prestashop.com/blog/es/las-diez-cosas-en-las-que-tienes-que-pensar-antes-de-disenar-una-tienda-online/</link>
+		<comments>http://www.prestashop.com/blog/es/las-diez-cosas-en-las-que-tienes-que-pensar-antes-de-disenar-una-tienda-online/#comments</comments>
+		<pubDate>Mon, 06 Oct 2014 13:44:42 +0000</pubDate>
+		<dc:creator>Natalie Beigel</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11925</guid>
+		<description><![CDATA[Nuestro bloguero invitado, Jerome Cathaud, director de operaciones de una agencia de servicios web, nos cuenta su experiencia en el diseño de sitios web para vendedores online. Uno de los aspectos más complejos del lanzamiento o relanzamiento de un negocio &#8230; <a href="http://www.prestashop.com/blog/es/las-diez-cosas-en-las-que-tienes-que-pensar-antes-de-disenar-una-tienda-online/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><em>Nuestro bloguero invitado, Jerome Cathaud, director de operaciones de una agencia de servicios web, nos cuenta su experiencia en el diseño de sitios web para vendedores online.</em></p>
+<p>Uno de los aspectos más complejos del lanzamiento o relanzamiento de un negocio online es el diseño de una tienda web única e idónea. Pero si hay planificación y anticipación, ese proceso puede ser hasta divertido.</p>
+<p>He trabajado con decenas de vendedores con necesidades muy distintas y siempre les he planteado estas diez cuestiones. Todas ellas están relacionadas entre sí, pero si las revisas una a una detenidamente, ¡estarás en el buen camino!</p>
+<p><img class="aligncenter size-large wp-image-11926" src="http://www.prestashop.com/blog/es/files/2014/10/10-designing-a-website-1024x537.jpg" alt="" width="584" height="306" /></p>
+<p><span id="more-11925"></span></p>
+<h4><span style="color: #31429a;">1. Define tus objetivos</span></h4>
+<p>Es esencial fijar un objetivo claro y varias etapas intermedias antes de empezar el proyecto: ayuda a mantenerse centrado en la meta final. ¿Por qué quieres crear una tienda online? ¿Vas a remodelar un sitio antiguo o es un proyecto nuevo con una nueva marca? También puedes tener un objetivo principal —ampliar tu cuota de mercado— y un objetivo secundario —cambiar la imagen de tu empresa—.</p>
+<h4><span style="color: #31429a;">2. Ten siempre presente la imagen de marca</span></h4>
+<p>Tu sitio debe reflejar visual y estructuralmente la identidad de tu empresa, tu imagen y, por supuesto, los valores esenciales que quieres transmitir a tus clientes. A menudo esta tarea empieza con el logo, que debería simbolizar todo esto: un buen logo te ayudará a definir el cuadro gráfico y la estética general de tu nuevo sitio web. Si no te convence tu logo, piensa en cambiarlo antes de lanzarte a diseñar un nuevo sitio.</p>
+<h4><span style="color: #31429a;">3. Reflexiona sobre tus productos</span></h4>
+<p>¿Qué vendes y cómo lo haces? Cada sector es diferente. Y eso significa que tienes que comunicarte y mostrar tus productos de un modo determinado. Cada artículo tiene unas características específicas que requieren un tratamiento concreto: color, tamaño, accesorios, tecnología, etc. Reflexionar sobre este tema te ayudará, entre otras cosas, a decidir si quieres <a href="http://www.prestashop.com/blog/es/cinco-ejemplos-de-paginas-de-productos-que-venden-de-verdad/" target="_blank">páginas de producto</a> sencillas o muy detalladas.</p>
+<h4><span style="color: #31429a;">4. Dirígete a tu audiencia</span></h4>
+<p>¿Qué es lo que define tu mercado objetivo? Tu tienda online deberá amoldarse a tus clientes, de ahí la necesidad de entenderlos: quiénes son, cómo actúan cuando buscan y compran productos o si existen patrones en su comportamiento. Conocer las características demográficas de tus clientes también te dará muchas pistas (qué tipo de experiencia de usuario has de ofrecer en tu web o lo innovadora que puede ser en función de la capacidad de los usuarios de hacerse con ella).</p>
+<p>Un ejemplo concreto: si te diriges a consumidores jóvenes puedes &#8220;atreverte&#8221; a ser más innovador. ¿Por qué? Porque la población más joven se sentirá más inclinada a adaptar —y adoptar— nuevas formas de descubrir o comprar productos que los segmentos de más edad.</p>
+<h4><span style="color: #31429a;">5. Destaca sobre la competencia</span></h4>
+<p>Una de las primeras cosas que hay que hacer es analizar la competencia: ¿quiénes son tus competidores y cómo gestionan sus negocios online? Normalmente aprenderás muchas lecciones que podrás poner en práctica. No obstante, la dificultad no reside en aprovechar lo que hacen bien, sino en detectar qué &#8220;no&#8221; hacen tan bien (o mal)&#8230; y en pensar qué puedes hacer tú para diferenciarte de tus competidores.</p>
+<h4><span style="color: #31429a;">6. Establece un presupuesto</span></h4>
+<p>Crear una tienda online profesional no es un juego de niños: estás invirtiendo en tu principal herramienta de trabajo, literalmente el &#8220;motor&#8221; que mueve tu empresa. ¿Acaso no desempeña simultáneamente la función del asesor, del vendedor, del cajero y de otros tantos? Es esencial que le dediques una partida presupuestaria a conseguir la herramienta eficaz que necesitas.</p>
+<h4><span style="color: #31429a;">7. Haz una lista de requisitos funcionales</span></h4>
+<p>Toma las decisiones técnicas adecuadas en función de todo lo anterior: objetivo, producto, audiencia, etc. Has de pensar en páginas específicas, módulos, alojamiento, suscripciones, <a title="Todo lo que querías saber sobre blogs para e-commerce" href="http://www.prestashop.com/blog/es/todo-lo-que-querias-saber-sobre-blogs-para-e-commerce/" target="_blank">blog</a>&#8230; pero también en aspectos relacionados como el mailing, las redes sociales o la estrategia de contenido.</p>
+<h4><span style="color: #31429a;">8. Elabora un plan</span></h4>
+<p>Redacta un plan que incluya una descripción detallada del proyecto con todos los elementos anteriores. Este documento te ayudará durante la toma de decisiones y te servirá como referencia siempre que lo necesites. Además, te permitirá tomar distancia, identificar posibles puntos débiles y encontrar soluciones para eliminarlos. Y no olvides que este documento será la base ideal para iniciar el proyecto si decides trabajar con un diseñador web profesional.</p>
+<h4><span style="color: #31429a;">9. Valora la posibilidad de contratar a un experto</span></h4>
+<p>Ahora que ya sabes todo lo que hay tener en cuenta, ¿crees que estás capacitado para hacerlo usando una <a href="http://addons.prestashop.com/es/3-temas-prestashop" target="_blank">plantilla para e-commerce predeterminada</a>? ¿O deberías trabajar con un profesional?</p>
+<p>Si decides contratar a un experto, escoge bien: un profesional capacitado, cuyos trabajos anteriores te gusten y con quien te sientas cómodo. Alguien que vaya a ser capaz de proponerte soluciones adaptadas a partir de todos los elementos comentados. Diseñar una tienda online totalmente personalizada no es tarea sencilla, requiere una buena comunicación entre las partes. Por tanto, elige con calma a alguien en quien confíes.</p>
+<h4><span style="color: #31429a;">10. Especificaciones de diseño</span></h4>
+<p>El diseño de tu sitio web debe tener en cuenta todos los aspectos de tu proyecto y sus distintos parámetros (funcionalidades, diseño gráfico, identidad de marca, etc.). Asegúrate de que el proceso de diseño responde a estas especificaciones para lograr un sitio web que cumpla tu objetivo inicial.</p>
+<p>En el camino puedes encontrarte obstáculos que tendrás que sortear. Por ejemplo, el apego sentimental que le tienes al proyecto, que es como tu &#8220;bebé&#8221;&#8230; Has de recordar que su funcionalidad y eficiencia están por encima de esas sensaciones. Una razón más para escoger al socio adecuado: un profesional experimentado te asesorará pensando en el objetivo final, no en deseos pasajeros. No pensará solo en lo que te gusta, sino en lo que necesitas.</p>
+<div>
+<hr align="left" size="2" width="33%" />
+</div>
+<p><em>Jerome Cathaud lidera desde hace tres años la expansión en los Estados Unidos de <a href="http://www.prestashop.com/es/asociados-agencia-web/platinum/newquest" target="_blank">NewQuest</a>. Esta experimentada agencia web ostenta la certificación platino de PrestaShop y tiene oficinas en Filadelfia (Estados Unidos), Chambery (Francia) y Sídney (Australia). Jerome ha dirigido y colaborado en múltiples proyectos de e-commerce y para organizaciones sin ánimo de lucro, además de crear innovadoras herramientas digitales para clientes como el Franklin Institute o la asociación Pennsylvania Wines. Posee un máster en Marketing Internacional y es diseñador gráfico autodidacta.<br />
+</em></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/las-diez-cosas-en-las-que-tienes-que-pensar-antes-de-disenar-una-tienda-online/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Cómo encontrar las palabras clave adecuadas para tu tienda online. La guía de palabras clave para SEO: Primera parte</title>
+		<link>http://www.prestashop.com/blog/es/como-encontrar-las-palabras-clave-adecuadas-para-tu-tienda-online-la-guia-de-palabras-clave-para-seo-primera-parte/</link>
+		<comments>http://www.prestashop.com/blog/es/como-encontrar-las-palabras-clave-adecuadas-para-tu-tienda-online-la-guia-de-palabras-clave-para-seo-primera-parte/#comments</comments>
+		<pubDate>Wed, 01 Oct 2014 16:39:37 +0000</pubDate>
+		<dc:creator>Gary Le Masson</dc:creator>
+				<category><![CDATA[Consejos E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/es/?p=11911</guid>
+		<description><![CDATA[¿Sabías que el 75 % de los usuarios nunca pasa de la primera página de resultados en una búsqueda? ¿Y que el 70-80 % ignora la publicidad y se centra en las páginas encontradas? Dicho de otro modo: el SEO &#8230; <a href="http://www.prestashop.com/blog/es/como-encontrar-las-palabras-clave-adecuadas-para-tu-tienda-online-la-guia-de-palabras-clave-para-seo-primera-parte/" rel="nofollow" class="more-link">Lea más <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>¿Sabías que el<a href="http://blog.hubspot.com/blog/tabid/6307/bid/14416/100-Awesome-Marketing-Stats-Charts-Graphs-Data.aspx" target="_blank"> 75 % de los usuarios nunca pasa de la primera página</a> de resultados en una búsqueda? ¿Y que el 70-80 % ignora la publicidad<a href="http://searchengineland.com/eye-tracking-study-everybody-looks-at-organic-listings-but-most-ignore-paid-ads-on-right-67698" target="_blank"> y se centra en las páginas encontradas</a>? Dicho de otro modo: el SEO es primordial para dirigir a clientes potenciales a tu tienda online.</p>
+<p><img class="aligncenter size-large wp-image-11912" src="http://www.prestashop.com/blog/es/files/2014/10/Keyword-PT-1-1024x307.jpg" alt="" width="584" height="175" /></p>
+<p>Con este artículo en dos entregas aprenderás a encontrar las palabras clave adecuadas y a usarlas para mejorar el posicionamiento de tu tienda online. Empezamos con la primera parte de la guía: cómo optimizar el tráfico.</p>
+<p><span id="more-11911"></span></p>
+<h2><span style="color: #009bdf;">Conceptos básicos de SEO</span></h2>
+<p>La optimización para buscadores o SEO se <a href="http://www.prestashop.com/blog/es/glosario-de-e-commerce-los-25-terminos-mas-usados-2/" target="_blank">define </a>como un conjunto de &#8220;normas sectoriales para la creación de contenido y el desarrollo web que ayudan a los buscadores a asociar tu sitio web con las palabras clave pertinentes&#8221;.</p>
+<p>Según el Business Insider, existen más de 644 millones de sitios web activos en el mundo. ¿Y eso qué quiere decir? Que una buena SEO es vital para diferenciarse de la competencia. El SEO no se restringe a técnicas avanzadas: hay miles de formas sencillas de mejorar tu posicionamiento usando bien las palabras clave. ¡Descúbrelas!</p>
+<h2><span style="color: #009bdf;">Selecciona las palabras clave adecuadas para tu tienda online</span></h2>
+<p>La tarea de SEO más importante es dar con las palabras clave adecuadas. Las palabras clave deben:</p>
+<p style="padding-left: 30px;">• Atraer tráfico de calidad y clientes dispuestos a comprar en tu tienda online.<br />
+• Permitirte aparecer entre los primeros resultados de búsqueda mediante el uso de palabras clave con menos competencia (baja o media). (Para las palabras clave con más competencia, consulta a nuestras <a href="http://www.prestashop.com/es/asociados-agencia-web" target="_blank">agencias especializadas </a>PrestaShop).</p>
+<h2><span style="color: #009bdf;">¿Qué palabras clave atraen tráfico de calidad?</span></h2>
+<p>Hazte las dos preguntas siguientes. Las respuestas serán sin duda las palabras clave que estás buscando.</p>
+<ol>
+<li>¿Qué vende tu tienda online?</li>
+<li>¿Qué buscarán los clientes para encontrar tus productos?</li>
+</ol>
+<p>Para este artículo, hemos tomado como ejemplo una tienda online que vende piezas para coches.</p>
+<ol>
+<li>1. Mi tienda online vende &#8220;<strong>piezas para coches</strong>&#8220;. En concreto, &#8220;<strong>piezas para coches de los setenta</strong>&#8221; o &#8220;<strong>piezas de Ford Mustang</strong>&#8220;.</li>
+<li>2. &#8220;<strong>Parachoques de coche de los setenta en mal estado</strong>&#8220;, &#8220;<strong>piezas de Ford Mustang 1970</strong>&#8221; o &#8220;<strong>parachoques barato Ford Mustang</strong>&#8220;</li>
+</ol>
+<h2><span style="color: #009bdf;">Descubre si una palabra clave es fácil o difícil de posicionar</span></h2>
+<p>El volumen de búsquedas de una palabra da una idea muy clara de su importancia en un mercado concreto. Permite comparar varias palabras clave y saber de un vistazo qué busca la gente.</p>
+<p>Puedes conseguir estos datos gratuitamente con el Planificador de palabras clave de Google AdWords. Solo tienes que crear una<a href="http://www.google.com/intl/es-419/adwords/how-it-works/ads-on-google.html" target="_blank"> cuenta de Google AdWords</a>.</p>
+<p><strong>Encuentra palabras clave para tu negocio en dos pasos</strong></p>
+<p>Cuando hayas creado la cuenta, entra en el Planificador de palabras clave desde el menú Herramientas.</p>
+<p><img class="aligncenter size-full wp-image-11913" src="http://www.prestashop.com/blog/es/files/2014/10/SEO-1.png" alt="" width="580" height="210" /></p>
+<p>1. Selecciona &#8220;Buscar nuevas ideas para palabras clave y grupos de anuncios&#8221;</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-11914" src="http://www.prestashop.com/blog/es/files/2014/10/SEO-2.png" alt="" width="350" height="252" /></p>
+<p>2. Rellena los campos del Planificador</p>
+<ol>
+<li>Pega las ideas de palabras clave que ya tienes</li>
+<li>Selecciona las <em>ubicaciones </em>a las que te diriges</li>
+<li>Selecciona los <em>idiomas </em>a los que te diriges</li>
+<li>Haz clic en &#8220;Obtener ideas&#8221;</li>
+<li>Revisa las sugerencias de Google en la pestaña Ideas para palabras clave.</li>
+</ol>
+<p><img class="aligncenter size-full wp-image-11915" src="http://www.prestashop.com/blog/es/files/2014/10/SEO-3.png" alt="" width="580" height="686" /></p>
+<p><img class="aligncenter size-full wp-image-11916" src="http://www.prestashop.com/blog/es/files/2014/10/SEO-4.png" alt="" width="580" height="295" /></p>
+<p>Este es nuestro primer grupo de palabras clave:</p>
+<p style="padding-left: 30px;">• Piezas para coches<br />
+• Piezas para coches de los setenta<br />
+• Piezas de Ford Mustang<br />
+• Parachoques de coche de los setenta en mal estado<br />
+• Piezas de Ford Mustang 1970<br />
+• Parachoques barato Ford Mustang</p>
+<p>Sigue los pasos indicados: conocerás el volumen de búsqueda de cada palabra clave y el nivel de competencia. Google AdWords hasta sugiere términos relacionados que podrían resultarte interesantes.</p>
+<p>Fíjate en el promedio de búsquedas: cuanto más alto sea, más difícil será aparecer entre las primeras páginas de resultados de Google. ¿Un último consejo? Aunque no salgan entre las más buscadas, no olvides las &#8220;<a href="http://www.wordstream.com/long-tail-keywords" target="_blank">palabras clave largas</a>&#8220;.</p>
+<p><img class="aligncenter size-full wp-image-11917" src="http://www.prestashop.com/blog/es/files/2014/10/SEO-5.png" alt="" width="580" height="193" /></p>
+<p>¿Quieres encontrar más palabras clave? Date un paseo por <a href="http://searchengineland.com/the-giant-list-of-keyword-tools-41678" target="_blank">Search Engine Land</a>’s, una lista interminable de herramientas para generar palabras clave.</p>
+<p>¿Te ha resultado útil esta primera entrega de nuestra guía de palabras clave para SEO? Cuéntanos qué te ha parecido. O pregunta lo que quieras, los comentarios están a tu disposición.</p>
+<div>
+<hr align="left" size="2" width="20%" />
+</div>
+<p>¿Estás listo para salir en la primera página de resultados de Google? Estate atento. ¡Pronto publicaremos la segunda parte de esta guía! Mientras tanto, <a href="http://www.prestashop.com/es/descarga" target="_blank">descarga el software PrestaShop</a>: un carro de la compra gratuito de código abierto con funcionalidades SEO integradas.</p>
+<p>Acabamos de publicar la segunda parte del artículo.<a href="http://www.prestashop.com/blog/es/como-estructurar-tu-tienda-online-con-las-palabras-clave-para-seo-parte-22/" target="_blank"><strong><span style="text-decoration: underline;">¡No esperes más y aprende a estructurar tu tienda online con tus palabras clave del SEO!</span></strong></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/es/como-encontrar-las-palabras-clave-adecuadas-para-tu-tienda-online-la-guia-de-palabras-clave-para-seo-primera-parte/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Served from: www.prestashop.com @ 2014-10-27 14:56:02 -->
