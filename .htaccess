@@ -8,7 +8,7 @@ SetEnv HTTP_MOD_REWRITE On
 </IfModule>
 
 RewriteEngine on
-RewriteRule . - [E=REWRITEBASE:/prestashop/]
+RewriteRule . - [E=REWRITEBASE:/arteydendrobium.com/]
 RewriteRule ^api/?(.*)$ %{ENV:REWRITEBASE}webservice/dispatcher.php?url=$1 [QSA,L]
 
 # Images
@@ -39,6 +39,6 @@ AddType font/otf .otf
 AddType application/x-font-woff .woff
 
 #If rewrite mod isn't enabled
-ErrorDocument 404 /prestashop/index.php?controller=404
+ErrorDocument 404 /arteydendrobium.com/index.php?controller=404
 
 # ~~end~~ Do not remove this comment, Prestashop will keep automatically the code outside this comment when .htaccess will be generated again
